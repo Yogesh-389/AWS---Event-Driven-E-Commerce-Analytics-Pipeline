@@ -1,0 +1,21 @@
+product_id,product_name,category,price,supplier_id
+P12346,Gadget 1,Gadgets,29.99,S123
+P12347,Gadget 2,Gadgets,39.99,S456
+P12348,Gadget 3,Gadgets,49.99,S789
+P12349,Gadget 4,Gadgets,59.99,S123
+P12350,Gadget 5,Gadgets,69.99,S456
+P12351,Cosmetic 1,Cosmetics,19.99,S123
+P12352,Cosmetic 2,Cosmetics,24.99,S456
+P12353,Cosmetic 3,Cosmetics,29.99,S789
+P12354,Cosmetic 4,Cosmetics,34.99,S123
+P12355,Cosmetic 5,Cosmetics,39.99,S456
+P12356,Clothing 1,Clothing,39.99,S123
+P12357,Clothing 2,Clothing,49.99,S456
+P12358,Clothing 3,Clothing,59.99,S789
+P12359,Clothing 4,Clothing,69.99,S123
+P12360,Clothing 5,Clothing,79.99,S456
+P12361,Appliance 1,Appliances,99.99,S123
+P12362,Appliance 2,Appliances,149.99,S456
+P12363,Appliance 3,Appliances,199.99,S789
+P12364,Appliance 4,Appliances,249.99,S123
+P12365,Appliance 5,Appliances,299.99,S456
